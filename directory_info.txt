@@ -1,0 +1,9 @@
+Имя файла: animals, Расширение: .log, Флаг каталога: False, Родительский каталог: Pogruzheniye v Python
+Имя файла: animals, Расширение: .py, Флаг каталога: False, Родительский каталог: Pogruzheniye v Python
+Имя файла: directory_info, Расширение: .log, Флаг каталога: False, Родительский каталог: Pogruzheniye v Python
+Имя файла: directory_info, Расширение: .txt, Флаг каталога: False, Родительский каталог: Pogruzheniye v Python
+Имя файла: homework_15, Расширение: .md, Флаг каталога: False, Родительский каталог: Pogruzheniye v Python
+Имя файла: rectangle, Расширение: .py, Флаг каталога: False, Родительский каталог: Pogruzheniye v Python
+Имя файла: student_grades, Расширение: .py, Флаг каталога: False, Родительский каталог: Pogruzheniye v Python
+Имя файла: subjects, Расширение: .csv, Флаг каталога: False, Родительский каталог: Pogruzheniye v Python
+Имя файла: task_6, Расширение: .py, Флаг каталога: False, Родительский каталог: Pogruzheniye v Python
